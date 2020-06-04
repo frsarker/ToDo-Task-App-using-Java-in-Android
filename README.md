@@ -4,4 +4,6 @@
 
 <p><img src="https://blog.frsarker.com/wp-content/uploads/2020/06/Create-a-ToDo-Task-App-using-Java-in-Android-WP-Cover.jpg" /></p>
 
-<p>Watch demo video at <b><a href="https://www.youtube.com/watch?v=Xp5SbyzKQ0A">Youtube</a></b></p>
+<p>Watch demo video at <b><a target="_blank" href="https://www.youtube.com/watch?v=Xp5SbyzKQ0A">Youtube</a></b></p>
+
+<p>Read the tutorial article on <b><a target="_blank" href="https://blog.frsarker.com/java/create-a-todo-task-app-using-java-in-android.html">Article</a></b></p>
